@@ -15,13 +15,7 @@ I'd like to do project that has relation to anime. :ghost:
 :star: Here are some projects that I'm working on:
 - [Yt Downloader Bot](https://t.me/Rei_Ytdl_Bot)
 
-![Reiyuura's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=hazaku-rei)
-
-<details>
-<summary>:bar_chart: Recent Anilist Activity</summary>
-  
 <!-- anilist_activity starts -->
-* [completed None](https://anilist.co/activity/249137457) of [Date A Live Movie: Mayuri Judgement](https://anilist.co/anime/20741)
 * [watched episode 1](https://anilist.co/activity/249095637) of [Tensei Shitara Slime Datta Ken 2nd Season Part 2](https://anilist.co/anime/116742)
 <!-- anilist_activity ends -->
 
