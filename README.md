@@ -2,9 +2,8 @@
 
 I'm [Reiyuura](https://hazaku-rei.pages.dev) :sunglasses:
 
-- 🔭 Desain terinspirasi dari [moepoi senpai](https://github.com/moepoi)
+- 🔭 Desain web terinspirasi dari [Moe Poi Senpai](https://github.com/moepoi)
 
-I'd like to do project that has relation to anime. :ghost:
 
 :page_with_curl: I'm currently learning:
 - Html
@@ -15,9 +14,6 @@ I'd like to do project that has relation to anime. :ghost:
 :star: Here are some projects that I'm working on:
 - [Yt Downloader Bot](https://t.me/Rei_Ytdl_Bot)
 
-<!-- anilist_activity starts -->
-* [watched episode 1](https://anilist.co/activity/249095637) of [Tensei Shitara Slime Datta Ken 2nd Season Part 2](https://anilist.co/anime/116742)
-<!-- anilist_activity ends -->
 
 </details>
 
@@ -31,11 +27,6 @@ I'd like to do project that has relation to anime. :ghost:
 
 </details>
 
-<details>
-<summary>:book: List Favorites Manga</summary>
-  
-<!-- favorites_manga starts -->
-<!-- favorites_manga ends -->
 
 </details>
 
